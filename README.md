@@ -55,3 +55,4 @@ The synthetic dataset is the content of official AWS Generative AI Blogs
 9. [[Supervised - Instruct] Arcee AI Llama-3.1 Supernova Lite](./arcee-ai-llama-3.1-supernova-lite-qlora-remote-decorator_qa.ipynb)
 10. [[Supervised - Instruct] Llama-3.2 1B](./llama-3.2-1b-qlora-remote-decorator_qa.ipynb)
 11. [[Supervised - Instruct] Llama-3.2 3B](./llama-3.2-3b-qlora-remote-decorator_qa.ipynb)
+12. [[Supervised FSDP] Codestral-22B](./codestral-22b-fsdp-qlora-remote-decorator_qa.ipynb)
